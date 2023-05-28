@@ -14,6 +14,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cmtboy&show_icons=true&locale=en&layout=compact" alt="cmtboy" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cmtboy&show_icons=true&locale=en" alt="cmtboy" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cmtboy&" alt="cmtboy" /></p>
